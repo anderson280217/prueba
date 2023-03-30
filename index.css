@@ -1,0 +1,13 @@
+#titulo {
+    color: red;
+    text-align: center;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.images img{
+    width: 100px;
+}
